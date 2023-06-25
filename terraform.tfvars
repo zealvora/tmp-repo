@@ -1,3 +1,3 @@
 username = "admin"
 
-password "demopassword"
+password = "demopassword"
